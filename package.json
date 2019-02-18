@@ -1,0 +1,27 @@
+{
+  "name": "csc3916_hw1",
+  "version": "1.0.0",
+  "description": "Homework 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-mich/CSC3916_HW1.git"
+  },
+  "author": "Matthew Michaelis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matt-mich/CSC3916_HW1/issues"
+  },
+  "homepage": "https://github.com/matt-mich/CSC3916_HW1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-jwt": "^4.0.0"
+  }
+}
